@@ -310,5 +310,3 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
 console.log(🎰 刮刮樂 Bot running on port ${PORT});
 });
-
-Message Kuro (Enter to send)
